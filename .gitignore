@@ -1,0 +1,9 @@
+# FOLDERS ############################
+node_modules
+.next
+offline
+out
+
+# FILES ##############################
+package-lock.json
+pnpm-lock.yaml
